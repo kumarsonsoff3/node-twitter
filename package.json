@@ -1,5 +1,5 @@
 {
-  "name": "twitter",
+  "name": "@trungdq88/twitter",
   "version": "1.7.1",
   "description": "Twitter API client library for node.js",
   "license": "MIT",
